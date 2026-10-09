@@ -106,6 +106,7 @@ This project demonstrates how Microsoft Fabric can support end-to-end HR analyti
 
 **Project Domain:** Human Resources Analytics
 **Focus Areas:** Employee Attrition | Workforce Analytics | Data Integration | Business Intelligence | Data Security
+
 **Screen Shots**
 Overview: https://github.com/riddhideshpande01/HR-Attritioin-Analysis-Using-Microsoft-Fabric/blob/main/dashboardScreenshot/Overview.png
 Deep dive: https://github.com/riddhideshpande01/HR-Attritioin-Analysis-Using-Microsoft-Fabric/blob/main/dashboardScreenshot/deepDive.png
